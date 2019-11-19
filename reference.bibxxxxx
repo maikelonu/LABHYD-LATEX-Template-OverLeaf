@@ -1,0 +1,268 @@
+%LAB 2 - Garro, 2008
+%Lab 4 - Bernoulli
+%Lab 5 - Cannon, 1996/ ICO/ 
+%Lab 6 - Beckwith et al, 2005/ ICO,2007
+%Lab 8 - ICO
+%Lab 9 - Janna, 1997, 
+
+%% This BibTeX bibliography file was created using BibDesk.
+
+@book{albert,
+    author    = "Jim Albert and Maria Rizzo",
+    year      = "2012",
+    title     = "R by Example",
+    publisher = "Springer Science+Business Media, LLC",
+    country   = "Estados Unidos",
+    }
+    
+@book{asawa,
+    author    = "G.L.Asawa",
+    year      = "2006",
+    title     = "Laboratory Work in Hydraulic Engineering",
+    edition   = "1",
+    publisher = " New Age International(P)Ltd.",
+    }
+
+@book{cengel,
+    author    = "Yunus A. Cengel and John M. Cimbala",
+    year      = "2006",
+    title     = "Hidráulica General",
+    edition   = "1",
+    publisher = "McGRAW-HILL INTERAMERICANA EDITORES, S.A",
+    country   = "México",
+    }
+
+@book{chanson,
+    author    = "Hubert Chanson",
+    year      = "2002",
+    title     = "Hidráulica del flujo en canales abiertos",
+    publisher = "McGRAW-HILL INTERAMERICANA, S.A",
+    country   = "Colombia",
+    }
+    
+@book{chow,
+    author    = "Ven Te Chow",
+    year      = "1994",
+    title     = "Hidráulica de canales abiertos",
+    publisher = "McGRAW-HILL INTERAMERICANA, S.A",
+    country   = "Colombia",
+    }
+
+@misc{coleparmer,
+    author    = "Cole-Parmer",
+    year      = "2018",
+    title     = "Heavy Duty Differential Manometer",
+    url       = "https://www.coleparmer.com"
+}
+
+@book{crowe,
+    author    = "Clayton T. Crowe and Donald F. Elger and John A. Roberson",
+    year      = "2002",
+    title     = "Mecánica de Fluidos",
+    edition   = "1",
+    publisher = "GRUPO PATRICA CULTURAL, S.A.", %REVISAR Compañía Editorial Continental
+    country   = "México"
+    }
+
+@book{crowe_eng,
+    author    = "Clayton T. Crowe and Donald F. Elger and John A. Roberson",
+    year      = "2001",
+    title     = "Engineering Fluid Mechanics",
+    edition   = "7",
+    publisher = "John Wiley & Sons, Inc.", 
+    }    
+
+@manual{goulds,
+    author    = "GOULDS Water Technology",
+    year      = "2013",
+    title     = "GT IRRI-GATOR",
+    publisher = "Xylem Inc.", 
+    } 
+
+@book{kabacoff,
+    author    = "Robert I. Kabacoff",
+    year      = "2015",
+    title     = "R in Action: Data analysis and graphics with R",
+    publisher = "Manning Publications Co.",
+    country   = "Estados Unidos",
+    }
+
+@book{king,
+    author    = "Ernest F. Brater and  Horace Williams King and James E. Lindell and C. Y. Wei",
+    year      = "1996",
+    title     = "Handbook of Hydraulics",
+    edition   = "7",
+    publisher = "The McGraw-Hill Companies, Inc.",
+    }
+    
+@book{mataix,
+    author    = "Claudio Mataix",
+    year      = "1982",
+    title     = "Mecánica de fluidos y máquinas hidráulicas",
+    edition   = "2",
+    publisher = "Oxford University Press México S.A. de C.V",
+    country   = "México",
+    }
+
+@book{matloff,
+    author    = "Norman Matloff",
+    year      = "2011",
+    title     = "The Art of R Programming: A tour of statistical software design",
+    publisher = "No Starch Press, Inc.",
+    country   = "Estados Unidos",
+    }
+
+@book{mays,
+    author    = "Larry W. Mays",
+    year      = "2000",
+    title     = "Water Distribution Systems Handbook",
+    publisher = "The McGraw-Hill Companies, Inc.",
+    country   = "Estados Unidos",
+    }
+            
+@book{mott,
+    author    = "Robert L. Mott",
+    year      = "1996",
+    title     = "Mecánica de Fluidos Aplicada",
+    edition   = "4",
+    publisher = "Prentice Hall, Inc.",
+    country   = "México"
+    }
+
+@book{munson,
+    author    = "Bruce R. Munson and Donald F. Young and Theodore H. Okiishi",
+    year      = "2004",
+    title     = "Fundamentos de Mecánica de Fluidos",
+    publisher = "EDITORIAL LIMUSA S.A.",
+    country   = "México"
+    }
+
+@article{peng,
+    author    = "Roger D. Peng",
+    year      = "2015",
+    title     = "R Programming for Data Science",
+    publisher = "Leanpub Publications",
+    }
+
+@book{potter,
+    author    = "Merle C. Potter and David C. Wiggert and Bassem Ramadan",
+    year      = "2015",
+    title     = "Mecánica de Fluidos",
+    country   = "Colombia",
+    edition   = "4",
+    publisher = "Cengage Learning Editores, S.A.",
+    }
+
+@book{rossiter,
+    author    = "D. G. Rossiter",
+    year      = "2014",
+    title     = "Introduction to the R Project for Statistical Computing for use al ITC",
+    publisher = "University of Twente",
+    }
+
+@book{rstudio,
+    author = {R Core Team},
+    year = {2016},
+    title = {R: A language and environment for statical computing},
+    publisher = {R-project.org/},
+    country = {Austria},
+    }    
+
+@book{saldarriaga,
+    author    = "Juan G. Saldarriaga V.",
+    year      = "2001",
+    title     = "Hidráulica de Tuberías",
+    country   = "Colombia",
+    publisher = "McGRAW-HILL INTERAMERICANA, S.A",
+    }
+
+@book{santana,
+    author    = "Julio Sergio Santana and Efraín Mateos Farfán",
+    year      = "2014",
+    title     = "El arte de programar en R: Un lenguaje para la estadística",
+    publisher = "Instituto Mexicano de Tecnología del Agua",
+    country   = "México",
+    }
+
+@book{sotelo,
+    author    = "Gilberto Sotelo Ávila",
+    year      = "1974",
+    title     = "Hidráulica General",
+    edition   = "1",
+    publisher = "Editorial LIMUSA, S.A.",
+    country   = "México"
+    }
+    
+@book{stretter,
+    author    = "Victor L. Stretter",
+    year      = "1970",
+    title     = "Mecánica de los fluidos",
+    publisher = "LIBROS DE McGRAW-HILL DE MÉXICO, S.A",
+    country   = "México",
+    }
+
+@article{torfs,
+    author    = "Paul Torfs and Claudia Brauer",
+    year      = "2014",
+    title     = "A (very) short introduction to R",
+    publisher = "Wageningen University",
+    country   = "The Netherlands",
+    }
+
+@book{villon,
+    author    = "Máximo Villón",
+    year      = "1994",
+    title     = "Hidráulica de canales",
+    edition   = "1",
+    publisher = "Editorial Tecnológico de Costa Rica",
+    country   = "Costa Rica",
+    }
+    
+@manual{woltman,
+    author    = "BERMAD Waterworks",
+    year      = "2006",
+    title     = "Woltman Turbine Meter",
+    publisher = "BERMAD",
+    }
+
+@book{white,
+    author    = "Frank M. White",
+    year      = "2008",
+    title     = "Mecánica de fluidos",
+    edition   = "6",
+    publisher = "McGRAW-HILL DE ESPAÑA, S.A",
+    country   = "España",
+    }
+
+%REFERENCIAS DEL INFORME
+@manual{cannonG592,
+    author    = "CANNON: Instrument Company",
+    year      = "2006",
+    title     = "Certificate of Calibration. Viscosimeter $N^{\circ}300$ G592",
+    }
+
+@manual{cannonG587,
+    author    = "CANNON: Instrument Company",
+    year      = "2006",
+    title     = "Certificate of Calibration. Viscosimeter $N^{\circ}300$ G587",
+    }
+    
+@manual{cannonN104,
+    author    = "CANNON: Instrument Company",
+    year      = "2006",
+    title     = "Certificate of Calibration. Viscosimeter $N^{\circ}150$ N104",
+    }
+    
+@manual{cannonM964,
+    author    = "CANNON: Instrument Company",
+    year      = "2006",
+    title     = "Certificate of Calibration. Viscosimeter $N^{\circ}300$ M964",
+    }
+
+@online{marcano,
+    author    = "Rubén Marcano",
+    year      = "2013",
+    title     = "Viscosidad: Ley de Newton.",
+    URL       = "http://marcanord.files.wordpress.com/2013/01/viscosidad-rdmc.pdf",
+    address   = "Vienna, Austria"
+}

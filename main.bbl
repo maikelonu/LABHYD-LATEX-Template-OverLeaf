@@ -1,0 +1,132 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{chow}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CVT}{%
+         family={Chow},
+         familyi={C\bibinitperiod},
+         given={Ven\bibnamedelima Te},
+         giveni={V\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {McGRAW-HILL INTERAMERICANA, S.A}%
+    }
+    \strng{namehash}{CVT1}
+    \strng{fullhash}{CVT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Hidráulica de canales abiertos}
+    \field{year}{1994}
+  \endentry
+
+  \entry{coleparmer}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CP}{%
+         family={Cole-Parmer},
+         familyi={C\bibinitperiod-P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CP1}
+    \strng{fullhash}{CP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Heavy Duty Differential Manometer}
+    \verb{url}
+    \verb https://www.coleparmer.com
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{marcano}{online}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={Marcano},
+         familyi={M\bibinitperiod},
+         given={Rubén},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Viscosidad: Ley de Newton.}
+    \verb{url}
+    \verb http://marcanord.files.wordpress.com/2013/01/viscosidad-rdmc.pdf
+    \endverb
+    \list{location}{1}{%
+      {Vienna, Austria}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{mott}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MRL}{%
+         family={Mott},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice Hall, Inc.}%
+    }
+    \strng{namehash}{MRL1}
+    \strng{fullhash}{MRL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{edition}{4}
+    \field{title}{Mecánica de Fluidos Aplicada}
+    \field{year}{1996}
+  \endentry
+
+  \entry{rstudio}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TRC}{%
+         family={Team},
+         familyi={T\bibinitperiod},
+         given={R\bibnamedelima Core},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {R-project.org/}%
+    }
+    \strng{namehash}{TRC1}
+    \strng{fullhash}{TRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{R: A language and environment for statical computing}
+    \field{year}{2016}
+  \endentry
+\enddatalist
+\endinput

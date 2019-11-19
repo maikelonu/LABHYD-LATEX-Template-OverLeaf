@@ -1,0 +1,24 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}RESUMEN}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}METODOLOG\IeC {\'I}A}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Equipo utilizado}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Conversi\IeC {\'o}n de unidades}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Memoria de c\IeC {\'a}lculo}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}DESCRIPCI\IeC {\'O}N Y AN\IeC {\'A}LISIS EST\IeC {\'A}DISTICO}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}RESULTADOS}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}AN\IeC {\'A}LISIS DE LOS RESULTADOS}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}CONCLUSIONES}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}RECOMENDACIONES}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}REFERENCIAS BIBLIOGR\IeC {\'A}FICAS}{15}
