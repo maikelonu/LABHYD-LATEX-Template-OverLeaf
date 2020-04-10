@@ -1,81 +1,76 @@
-% //////////////////////////////////////////////////////////////////////////////////
+%////////////////////////////////////////////////////////////////////////////////////////////////////////////
 % INSTITUTO TECNOLOGICO DE COSTA RICA
 % Escuela de Ingenieria en Construccion
+% Construction Engineering School
 % https://www.tec.ac.cr
-%----------------------------------------------------------------------------------
-% TOPIC01. Introduction to R programming
-%----------------------------------------------------------------------------------
-% Instructor: Eng. MSc. Maikel Mendez Morales
-% email: maikel.mendez@gmail.com; mamendez@itcr.ac.cr; maikel_m@yahoo.com
-% YouTube: https://www.youtube.com/c/maikelmendez
-% Google Scholar: https://scholar.google.com/citations?user=JnmSVFYAAAAJ&hl=en
-% Twitter: https://twitter.com/maikelmendezm
-% //////////////////////////////////////////////////////////////////////////////////
-%----------------------------------------------------------------------------------
-% Elaborado por: Alejandra Trejos Elizondo
-% email: aletrejos2012@gmail.com
-%----------------------------------------------------------------------------------
-% //////////////////////////////////////////////////////////////////////////////////
+% Eng. MSc. Maikel Mendez Morales
+% Email: maikel.mendez@gmail.com; mamendez@itcr.ac.cr
+% https://orcid.org/0000-0003-1919-141X
+% https://www.scopus.com/authid/detail.uri?authorId=51665581300
+% https://scholar.google.com/citations?user=JnmSVFYAAAAJ&hl=en
+% https://www.youtube.com/c/maikelmendez
+% https://twitter.com/MaikelMendezM
+% https://github.com/maikelonu
+% Skype: maikel.mendez
+%////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-% //////////////////////////////////////////////////////////////////////////////////
-% BLOCK: Basic format definition and package loading
-% //////////////////////////////////////////////////////////////////////////////////
+%-------------------------------------------------------------------------------------------------------------------
+% INFO: This script is intended as a LATEX template for class "Laboratorio de Hidraulica CO-3503"
+%-------------------------------------------------------------------------------------------------------------------
 
-% Used to specify sheet format and letter size
-\documentclass[12, letterpaper]{article} 
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+% BLOCK: LATEX document configuration and packages loading
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-%----------------------------------------------------------------------------------
-% Packages are loaded
-%----------------------------------------------------------------------------------
+% Sheet format and letter size is defined
+\documentclass[12pt, letterpaper]{article} 
 
-% Translates various standard and other input encodings into a LaTeX internal language
-\usepackage[utf8]{inputenc} 
-
-% Document language is selected
-\usepackage[spanish]{babel} 
-
-% Margins are set
+% Margens are defined
 \usepackage[left=2cm,right=2cm,top=3cm,bottom=3cm]{geometry} 
 
-% Allow users to utilize different mathematical symbols 
+%Translates various standard and input encodings into LaTeX internal language
+\usepackage[utf8]{inputenc} 
+
+% Several mathematical symbolologies are defined
 \usepackage{amsmath} 
 \usepackage{amsfonts} 
-\usepackage{amssymb} 
+\usepackage{amssymb}
 
-% Used to enumerate equations
-\usepackage{makeidx} 
+% Mathematical equations are enumerated
+\usepackage{makeidx}
 
-% spacing is set
-\usepackage{setspace} 
-\onehalfspacing  %Spacing
+% Document language is selected
+\usepackage[spanish]{babel}
 
-%Improves the interface for defining floating objects such as figures and tables
+% Document spacing is defined
+\usepackage{setspace}
+
+% Document spacing is set
+\onehalfspacing %Spacing
+
+% Improves interface for floating objects (figures and tables)
 \usepackage{float} 
 
-% Needed to work with images, headers, footers, etc
-\usepackage{graphicx} 
+% Allows manipulation of images, headers, footers, etc.
+\usepackage{graphicx}
 
-% Changes page orientation
-\usepackage{lscape} 
-
-% Needed to work with bibliography
+% Bibliography packages are loaded
 \usepackage[backend=bibtex]{biblatex}
-% The references file is loaded
-\addbibresource{reference.bib} 
 
-%Allows to add the references section into the index.
+% References (*.BIB) file is loaded !!!
+\addbibresource{reference.bib}
+
+% Allows adding references within the index
 \usepackage[nottoc]{tocbibind} 
 
-% //////////////////////////////////////////////////////////////////////////////////
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+% BLOCK: LATEX document writing
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-% //////////////////////////////////////////////////////////////////////////////////
-% BLOCK: Document formulation
-% //////////////////////////////////////////////////////////////////////////////////
-
-% Document begins
+% Document is started
 \begin{document}
-
-%----------------------------------------------------------------------------------
+%---------------
+-------------------------------------------------------------------
 % Title page is created manually
 \begin{titlepage}
 %----------------------------------------------------------------------------------
@@ -445,7 +440,7 @@ Fuente: R Studio, a partir de los datos brindados por el profesor Maikel Méndez
 
 %----------------------------------------------------------------------------------
 % Analisis de Resultados section is created
-\section{ANÁLISIS DE LOS RESULTADOS}
+\section{ANÁLISIS DE RESULTADOS}
 %----------------------------------------------------------------------------------
 
 En este informe se pretende conocer la relación de la viscosidad cinemática de un fluido respecto a su temperatura. Según el ingeniero \cite{marcano}, la viscosidad  expresa la facilidad que tiene un fluido para fluir cuando se le aplica una fuerza externa; por lo tanto es una medida de su resistencia al deslizamiento o a la deformación cortante o angular.  Dicha medida puede obtenerse en el laboratorio, y la viscosidad se puede presentar como viscosidad dinámica o absoluta y como  viscosidad cinemática. Además; dicha resistencia que se opone al movimiento relativo de la moléculas del fluido que presenta viscosidad es gracias a la fricción cinemática. \cite{mott}. Durante el desarrollo de este análisis se estará trabajando con la viscosidad cinemática, la cual corresponde a según Mott al cociente de la viscosidad dinámica del fluido analizado y su densidad.\\
