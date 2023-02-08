@@ -2,6 +2,8 @@
 
 # LATEX-Template-OVERLEAF
 Este es el template LATEX mas completo para la preparacion de los Informes de Laboratorio.
-De hecho, es un informe real preparado por Alejandra Trejos.
+Laboratorio de Hidráulica. CO-3503
 
-# Ustedes deben crear su propia cuenta de OVERLEAF.
+# Ustedes deben crear su propia cuenta de OVERLEAF:
+
+# https://www.overleaf.com/
