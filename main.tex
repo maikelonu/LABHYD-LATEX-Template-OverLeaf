@@ -63,6 +63,13 @@
 % Allows adding references within the index
 \usepackage[nottoc]{tocbibind} 
 
+% Allows for image landscape portrait
+\usepackage{pdflscape}
+
+% BEWARE !!! Use these lines ONLY!! if you get a first blank page
+\usepackage{atbegshi}% http://ctan.org/pkg/atbegshi
+\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}}
+
 %/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 % BLOCK: LATEX document writing
 %/////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -87,22 +94,22 @@
    %This command makes the letter bigger and bold.
 	\textbf{\large{ESCUELA DE INGENIERÍA EN CONSTRUCCIÓN}}\\
 	\textbf{\large{LABORATORIO DE HIDRÁULICA}}\\
-	\textbf{\large{Grupo 3}} \\
+	\textbf{\large{Grupo XX}} \\
 
 \vspace{1in} % This command sets a space between lines.
 \textbf{\large{INFORME 4. VISCOSIDAD CINEMÁTICA}}\\
 \vspace{1in}
 \textbf{\large{Elaborado por:}}\\
-\textbf{\large{ALEJANDRA TREJOS ELIZONDO  CARNÉ}}\\
-\textbf{\large{DANIELA MAROTO CALDERÓN  CARNÉ}}\\
+\textbf{\large{LUIS LOPEZ LOPEZ  123456789}}\\
+\textbf{\large{JUAN CHAVEZ CHAVEZ  123456789}}\\
 \vspace{0.5in}
 \textbf{\large{Profesor guía:}}\\
 \textbf{\large{MAIKEL MÉNDEZ MORALES}}\\
 \vspace{0.5in}
 \textbf{\large{Fecha de entrega:}}\\
-\textbf{\large{19 de setiembre}}\\
+\textbf{\large{XX de Septiembre 201X}}\\
 \vspace{1in}
-\textbf{\large{II Semestre 2017}}\\
+\textbf{\large{II Semestre 201X}}\\
 
 \end{center}
 
